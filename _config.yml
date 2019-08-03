@@ -50,3 +50,16 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true

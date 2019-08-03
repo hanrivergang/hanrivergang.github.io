@@ -16,9 +16,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    github: "https://github.com/hanrivergang"
+    facebook: "https://www.facebook.com/profile.php?id=100007413372861"
+    instagram: "https://www.instagram.com/seho_tothemoon"
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll

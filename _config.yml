@@ -1,13 +1,12 @@
-locale: "ko_KR"
 title: "내 목표는 광장동 강변 집이야"
 title_separator: "-"
-author: "Seho Moon"
+author: "sehomoon"
 email: "gghj10318@gmail.com"
-description: "Soongsil University"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+description: "Soongsil Univ."
+locale: "ko-KR"
+url: "https://sehomoon.github.io"
+baseurl: ""
+remote_theme: "mmistakes/minimal-mistakes"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -17,8 +16,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    locale
-    github: "https://github.com/SehoMoon"
+    twitter: jekyllrb
+    github:  jekyll
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -46,7 +45,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 
 plugins:
  - jekyll-feed

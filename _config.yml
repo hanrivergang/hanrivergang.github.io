@@ -17,7 +17,7 @@ minima:
   # generate social links in footer
   social_links:
     github: hanrivergang
-    facebook: 문세호
+    facebook:
     instagram: seho_tothemoon
     # dribbble: jekyll
     # facebook: jekyll
